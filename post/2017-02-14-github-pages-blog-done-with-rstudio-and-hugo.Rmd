@@ -1,5 +1,5 @@
 ---
-title: Github pages blog done with Rstudio and Hugo
+title: New website
 author: Claus Gaarde Pedersen
 date: '2017-02-14'
 categories:
@@ -12,6 +12,16 @@ tags:
 description: 'First post'
 draft: yes
 ---
+
+Welcome to this new website using Github pages with Rstudio/blogdown and Hugo
+Actually its my first time ever trying to my own website.  
+With more than 20 year experience in the it-business, maybe you would have expected that  
+to have happened sooner.
+
+Reading up on this new thing with making a webpage through rstudio with blogdown and Hugo caugth my interested.  
+Finally i should use the time needed to set that up, because this seems to be a good avenue to show the things that can be made through Rmarkdown.
+
+Bellow is my first at it. It seems that there is work to do to have the tabsets working, but you can see an example leaflet, which i predict you will see alot of on this site further on.
 
 # {.tabset .tabset-fade .tabset-pills}
 
