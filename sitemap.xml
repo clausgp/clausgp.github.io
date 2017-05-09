@@ -4,6 +4,14 @@
     
     
     <url>
+      <loc>/post/poplines/</loc>
+      <lastmod>2017-04-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>/post/using-tabset-in-rmarkdown/</loc>
       <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     </url>
@@ -147,6 +155,15 @@
     
     
     <url>
+      <loc>/tags/population-lines/</loc>
+      <lastmod>2017-04-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>/project/</loc>
       <lastmod>2017-03-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -165,7 +182,7 @@
     
     <url>
       <loc>/tags/r/</loc>
-      <lastmod>2017-04-10T00:00:00+00:00</lastmod>
+      <lastmod>2017-04-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
