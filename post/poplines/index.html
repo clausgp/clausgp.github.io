@@ -277,7 +277,7 @@ This funcion is used to make a new plot of Denmark (also shown in the header of 
 plot_poplines(country=&quot;DK&quot;, xdetail=6, ydetail=4, height=1)</code></pre>
 <p><img src="/post/2017-05-09-poplines_files/figure-html/unnamed-chunk-6-1.png" width="864" /></p>
 <p>I think this is visually more pleasing, than the first plot.</p>
-<p>To make population plots on your own, you can use plot_lines, with your favorite country and experiment with the parameters or you can adjust the code to make further enhancements. Also by running the code yourself you can see the plot in bigger size than the formatting of rmarkdown allows for.</p>
+<p>To make population plots on your own, you can use plot_poplines, with your favorite country and experiment with the parameters or you can adjust the code to make further enhancements. Also by running the code yourself you can see the plot in bigger size than the formatting of rmarkdown allows for.</p>
 <p>Lets make a plot of Europe</p>
 <pre class="r"><code># Europe
 plot_poplines(xdetail=1, ydetail=0.5, height=3)</code></pre>
@@ -315,23 +315,24 @@ plot_poplines(country=&quot;DE&quot;)</code></pre>
 <div class="article-container">
   
 <section id="comments">
-  <div id="disqus_thread">
-    <div id="disqus_thread"></div>
+  
+  <div id="disqus_thread"></div>
 <script type="text/javascript">
-    var disqus_shortname = 'clausgp';
-    var disqus_identifier = '\/post\/poplines\/';
-    var disqus_title = 'The mountains of Denmark';
-    var disqus_url = '\/post\/poplines\/';
 
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'clausgp';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-  </div>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </section>
 
 

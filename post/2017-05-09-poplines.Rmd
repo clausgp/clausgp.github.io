@@ -55,7 +55,7 @@ This funcion is used to make a new plot of Denmark (also shown in the header of 
 
 I think this is visually more pleasing, than the first plot.  
 
-To make population plots on your own, you can use plot_lines, with your favorite country and experiment with the parameters or you can adjust the code to make further enhancements. Also by running the code yourself you can see the plot in bigger size than the formatting of rmarkdown allows for.  
+To make population plots on your own, you can use plot_poplines, with your favorite country and experiment with the parameters or you can adjust the code to make further enhancements. Also by running the code yourself you can see the plot in bigger size than the formatting of rmarkdown allows for.  
 
 Lets make a plot of Europe
 

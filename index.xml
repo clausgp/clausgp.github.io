@@ -97,7 +97,7 @@ This funcion is used to make a new plot of Denmark (also shown in the header of 
 plot_poplines(country=&amp;quot;DK&amp;quot;, xdetail=6, ydetail=4, height=1)&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;/post/2017-05-09-poplines_files/figure-html/unnamed-chunk-6-1.png&#34; width=&#34;864&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;I think this is visually more pleasing, than the first plot.&lt;/p&gt;
-&lt;p&gt;To make population plots on your own, you can use plot_lines, with your favorite country and experiment with the parameters or you can adjust the code to make further enhancements. Also by running the code yourself you can see the plot in bigger size than the formatting of rmarkdown allows for.&lt;/p&gt;
+&lt;p&gt;To make population plots on your own, you can use plot_poplines, with your favorite country and experiment with the parameters or you can adjust the code to make further enhancements. Also by running the code yourself you can see the plot in bigger size than the formatting of rmarkdown allows for.&lt;/p&gt;
 &lt;p&gt;Lets make a plot of Europe&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Europe
 plot_poplines(xdetail=1, ydetail=0.5, height=3)&lt;/code&gt;&lt;/pre&gt;
