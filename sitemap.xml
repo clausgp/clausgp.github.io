@@ -4,6 +4,14 @@
     
     
     <url>
+      <loc>/post/facebooks-prophet/</loc>
+      <lastmod>2017-07-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>/post/poplines/</loc>
       <lastmod>2017-04-29T00:00:00+00:00</lastmod>
     </url>
@@ -21,6 +29,14 @@
     
     <url>
       <loc>/project/hofstede/</loc>
+      <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/project/komrecidency/</loc>
       <lastmod>2017-03-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -146,6 +162,15 @@
     
     
     <url>
+      <loc>/tags/immigration/</loc>
+      <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>/tags/leaflet/</loc>
       <lastmod>2017-03-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -182,7 +207,7 @@
     
     <url>
       <loc>/tags/r/</loc>
-      <lastmod>2017-04-29T00:00:00+00:00</lastmod>
+      <lastmod>2017-07-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -200,6 +225,15 @@
     
     <url>
       <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>/tags/timeseries/</loc>
+      <lastmod>2017-07-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
