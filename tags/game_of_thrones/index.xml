@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game_of_thrones on Claus Gaarde Pedersen</title>
-    <link>/tags/game_of_thrones/index.xml</link>
+    <link>/tags/game_of_thrones/</link>
     <description>Recent content in Game_of_thrones on Claus Gaarde Pedersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Claus Gaarde Pedersen</copyright>
-    <atom:link href="/tags/game_of_thrones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/game_of_thrones/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Game of Thrones - family ties</title>

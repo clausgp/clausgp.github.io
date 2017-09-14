@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Population Lines on Claus Gaarde Pedersen</title>
-    <link>/tags/population-lines/index.xml</link>
+    <link>/tags/population-lines/</link>
     <description>Recent content in Population Lines on Claus Gaarde Pedersen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Claus Gaarde Pedersen</copyright>
-    <atom:link href="/tags/population-lines/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/population-lines/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The mountains of Denmark</title>
